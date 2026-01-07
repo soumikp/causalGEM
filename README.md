@@ -29,11 +29,6 @@ This creates detectable asymmetries in marginal entropies that can be used for c
 ## Installation
 
 ```bash
-pip install causalGEM
-```
-
-For development installation:
-```bash
 git clone https://github.com/soumikp/causalGEM.git
 cd causalGEM
 pip install -e ".[dev]"
